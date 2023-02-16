@@ -8,4 +8,5 @@ def main(m, b):
             c += (14 * i ** 2) + (k ** 2 + 39 * i + 0.02) ** 3 + 86 * i ** 4
     return a - c
 
+
 print(main(8, 8))
